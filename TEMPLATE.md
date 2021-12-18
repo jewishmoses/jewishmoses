@@ -1,6 +1,6 @@
 <h1>You found my Github profile, nice!</h1>
 <p>
-    My name is {{ name }}, I currently live in Israel {{ flag }} and serve in the army.
+    My name is {{ name }}, I live in Israel and currently serving my active duty in the IDF 🪖.
 </p>
 
 <h3>Languages, frameworks and tools I've used:</h3>
