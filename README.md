@@ -3,8 +3,6 @@
     My name is Moshe, I currently live in Israel 🇮🇱 and serve in the army.
 </p>
 
-<hr />
-
 <h3>Languages, frameworks and tools I've used:</h3>
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,7 +24,7 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-    <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
@@ -60,13 +58,25 @@
 | [Theory](https://github.com/jewishmoses/theory)   | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />     | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/django.svg" />                                                                                                                                                                                     |
 | [Skipify](https://github.com/jewishmoses/skipify) | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /> | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/sqlite.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/sequelize.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/express.svg" /> |
 
+<hr />
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jewishmoses&theme=github&bg_color=fff&line=216e39&color=000&point=000)](https://github.com/jewishmoses/github-readme-activity-graph)
+
+<hr />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:activity-->
+<hr />
 
 <div align="center">
-    <h3>This was last updated on Saturday, December 18, 3:32 PM GMT+2.</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jewishmoses&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<hr/>
+
+<div align="center">
+    <h3>This was last updated on Saturday, December 18, 3:56 PM GMT+2.</h3>
 </div>
