@@ -1,8 +1,5 @@
 name: Build README File
 'on':
-    push:
-        branches:
-            - main
     schedule:
         -
             cron: 0 */6 * * *
