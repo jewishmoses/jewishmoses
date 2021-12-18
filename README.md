@@ -1,6 +1,6 @@
 <h1>You found my Github profile, nice!</h1>
 <p>
-    My name is Moshe, I currently live in Israel 🇮🇱 and serve in the army.
+    My name is Moshe, I live in Israel and currently serving my active duty in the IDF 🪖.
 </p>
 
 <h3>Languages, frameworks and tools I've used:</h3>
@@ -78,5 +78,5 @@
 <hr/>
 
 <div align="center">
-    <h3>This was last updated on Saturday, December 18, 3:56 PM GMT+2.</h3>
+    <h3>This was last updated on Saturday, December 18, 4:06 PM GMT+2.</h3>
 </div>
