@@ -47,3 +47,4 @@ jobs:
                     SHOW_UPDATED_DATE: "False"
                     SHOW_LOC_CHART: "False"
                     SHOW_SHORT_INFO: "False"
+                    SHOW_PROJECTS: "False"
