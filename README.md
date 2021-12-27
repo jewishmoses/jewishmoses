@@ -78,5 +78,5 @@
 <hr/>
 
 <div align="center">
-    <h3>This was last updated on Monday, December 27, 8:10 AM GMT+2.</h3>
+    <h3>This was last updated on Monday, December 27, 8:08 PM GMT+2.</h3>
 </div>
