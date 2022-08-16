@@ -31,5 +31,5 @@
 <hr/>
 
 <div align="center">
-    <h3>This was last updated on Tuesday, August 16, 3:15 PM GMT+3.</h3>
+    <h3>This was last updated on Tuesday, August 16, 9:14 PM GMT+3.</h3>
 </div>
