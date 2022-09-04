@@ -18,6 +18,19 @@
 <hr />
 
 <!--START_SECTION:waka-->
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   37.93% 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 <hr />
