@@ -1,35 +1,18 @@
-<h1>You found my Github profile, nice!</h1>
-<p>
-    My name is {{ name }}, I live in Israel and currently serving my active duty in the IDF 🪖.
-</p>
+Hey there 👋, my name is Moshe, and I'm from 🇮🇱.
 
-<h3>Here are some of my projects:</h3>
+- :telescope: I’m working as a Fullstack developer building frontend and backend web applications.
 
-| Projects                                          | Languages                                                                                   | Tools                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Covid19](https://github.com/jewishmoses/covid19) | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/php.svg" />        | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/laravel.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/livewire.svg" />                                                                                          |
-| [Theory](https://github.com/jewishmoses/theory)   | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />     | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/django.svg" />                                                                                                                                                                                     |
-| [Skipify](https://github.com/jewishmoses/skipify) | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /> | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/sqlite.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/sequelize.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/express.svg" /> |
+- :seedling: Love to learn & discover new technologies.
 
-<hr />
+- 🍿 My favorite program right now is Friends.
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jewishmoses&theme=github&bg_color=fff&line=216e39&color=000&point=000)](https://github.com/jewishmoses/github-readme-activity-graph)
+- :zap: In my free time, I develop my websites [movies.org.il](https://movies.org.il) & [products.org.il](https://products.org.il).
 
-<hr />
+- 💻 One of my recent projects: [Movify](https://github.com/jewishmoses/movify)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<hr />
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jewishmoses&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+- :mailbox: How to reach me: moshe@xemail.co.
 
 <hr/>
 
-<div align="center">
-    <h3>This was last updated on {{ date }}.</h3>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
