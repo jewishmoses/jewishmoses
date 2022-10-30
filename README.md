@@ -1,9 +1,16 @@
-<h1>You found my Github profile, nice!</h1>
-<p>
-    My name is Moshe, I live in Israel and currently serving my active duty in the IDF 🪖.
-</p>
+Hey there 👋, my name is Moshe, and I'm from 🇮🇱.
 
-<h3>Here are some of my projects:</h3>
+- :telescope: I’m working as a Fullstack developer building frontend and backend web applications.
+
+- :seedling: Love to learn & discover new technologies.
+
+- 📺 My favorite program right now is Friends.
+
+- :zap: In my free time, I develop my websites [movies.org.il](https://movies.org.il) & [products.org.il](https://products.org.il).
+
+- :mailbox: How to reach me: moshe@xemail.co.
+
+<!-- <h3>Here are some of my projects:</h3>
 
 | Projects                                          | Languages                                                                                   | Tools                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -11,11 +18,9 @@
 | [Theory](https://github.com/jewishmoses/theory)   | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />     | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/django.svg" />                                                                                                                                                                                     |
 | [Skipify](https://github.com/jewishmoses/skipify) | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /> | <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/sqlite.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/sequelize.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/express.svg" /> |
 
-<hr />
+<hr /> -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jewishmoses&theme=github&bg_color=fff&line=216e39&color=000&point=000)](https://github.com/jewishmoses/github-readme-activity-graph)
-
-<hr />
+<hr/>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -75,17 +80,3 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<hr />
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jewishmoses&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<hr/>
-
-<div align="center">
-    <h3>This was last updated on Sunday, October 30, 8:13 PM GMT+2.</h3>
-</div>
