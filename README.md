@@ -4,9 +4,11 @@ Hey there 👋, my name is Moshe, and I'm from 🇮🇱.
 
 - :seedling: Love to learn & discover new technologies.
 
-- 📺 My favorite program right now is Friends.
+- 🍿 My favorite program right now is Friends.
 
 - :zap: In my free time, I develop my websites [movies.org.il](https://movies.org.il) & [products.org.il](https://products.org.il).
+
+- 💻 One of my recent projects: [Movify](https://github.com/jewishmoses/movify)
 
 - :mailbox: How to reach me: moshe@xemail.co.
 
