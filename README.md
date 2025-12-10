@@ -6,7 +6,7 @@ Hey there 👋, my name is Moshe, and I'm from 🇮🇱.
 
 - 🍿 My favorite program right now is Friends.
 
-- :zap: In my free time, I develop my websites [movies.org.il](https://movies.org.il) & [products.org.il](https://products.org.il).
+- :zap: In my free time, I work on personal projects.
 
 - 💻 One of my recent projects: [Musicfy](https://github.com/jewishmoses/musicfy)
 
